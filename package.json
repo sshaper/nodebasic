@@ -1,6 +1,6 @@
 {
   "name": "nodebasics",
-  "version": "5.0",
+  "version": "1.0.0",
   "description": "Basic MVC for node",
   "author": "Scott Shaper",
   "license": "ISC",
